@@ -1,0 +1,28 @@
+           1         127     smallest and largest length
+c
+         500     number of grid points
+limit spec
++     upper limit
+arithmetic interpolation
+not hugged spec
+ 0.00000E+00 2.00000E-01     band edges
+ 1.01000E+00 1.01000E+00     bounds
+limit spec
+-     lower limit
+arithmetic interpolation
+not hugged spec
+ 0.00000E+00 2.00000E-01     band edges
+ 9.90000E-01 9.90000E-01     bounds
+limit spec
++     upper limit
+arithmetic interpolation
+not hugged spec
+ 2.40000E-01 5.00000E-01     band edges
+ 1.00000E-02 1.00000E-02     bounds
+limit spec
+-     lower limit
+arithmetic interpolation
+not hugged spec
+ 2.40000E-01 5.00000E-01     band edges
+-1.00000E-02-1.00000E-02     bounds
+end
